@@ -61,7 +61,7 @@
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2024-1-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-11
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-01
