@@ -69,9 +69,12 @@
 * <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-02
 <!-- END_SECTION:douban -->
 
-
-## reth节点搭建，正在同步
+## 目前在做的
+-  reth节点搭建，正在同步
 <img align="right"  src="./img/node_syning.png" />
+
+- bsc节点,下载快照
+<img align="right"  src="./img/bnb_node.png" />
 </table>
 
 </div>
