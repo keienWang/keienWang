@@ -90,6 +90,13 @@
       <img align="right" src="./img/btcnode.png" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>- 巩固solidity基础知识</p>
+      <img align="right" src="./img/study_sol.png" />
+    </td>
+  </tr>
+
 </table>
 
 </div>
