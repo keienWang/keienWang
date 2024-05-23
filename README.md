@@ -70,6 +70,8 @@
 <!-- END_SECTION:douban -->
 
 
+## reth节点搭建，正在同步
+<img align="right"  src="./img/node_syning.png" />
 </table>
 
 </div>
