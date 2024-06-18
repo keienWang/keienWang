@@ -74,19 +74,19 @@
  <tr>
     <td>
       <h2>目前在做的</h2>
-      <p>- 正在搭建 reth 节点，正在同步</p>
+      <p>- 正在搭建 reth 节点，已同步至最新，空间占用才2t，速度很快，只不过必须要ssd才可以，机械硬盘根本追不上最新区块</p>
       <img align="right" src="./img/node_syning.png" />
     </td>
   </tr>
   <tr>
     <td>
-      <p>- 正在下载 bsc 节点快照</p>
+      <p>- 正在下载 bsc节点快照，公司网络有问题，已反馈，并切换网络</p>
       <img align="right" src="./img/bnb_node.png" />
     </td>
   </tr>
   <tr>
     <td>
-      <p>- 正在跟上 btc 节点的最新区块</p>
+      <p>- 正在跟上 btc 节点的最新区块，可配置user与password,rpc一直可用</p>
       <img align="right" src="./img/btcnode.png" />
     </td>
   </tr>
