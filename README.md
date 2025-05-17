@@ -46,6 +46,7 @@
 <p>&emsp;&emsp;热爱编程、唱，跳，rap，篮球。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;很喜欢的一句话是：这个时代唯一不变的就是变。无论何时，我们都应保持自我更新的能力，即便不能走到时代的最前列，也不能任由自己被时代抛弃，人只有不断更新自己，才能与时代的不确定性共舞。</p>
+<p>&emsp;&emsp;所以我从最开始的公链开发一直在尝试着接触新的事物，碰巧的是在近几年的工作中学习到了很多，evm合约，sol合约，后端，慢慢的都有涉及，也都做出了几个不错的项目，但现在会时常思考，我的未来该是什么样子，我该如何去融入新时代的发展，我未来的路该如何规划呢？</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 
