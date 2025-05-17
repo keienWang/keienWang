@@ -45,7 +45,7 @@
 <p>&emsp;&emsp;嗨，你好，我是 keien。</p>
 <p>&emsp;&emsp;热爱编程、唱，跳，rap，篮球。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;很喜欢的一句话是：这个时代唯一不变的就是变。无论何时，我们都应保持自我更新的能力，即便不能走到时代的最前列，也不能任由自己被时代抛弃，人只有不断更新自己，才能与时代的不确定性共舞。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 
