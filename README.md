@@ -1,105 +1,71 @@
-<div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);keien 祝您今天愉快!&center=true&size=27" />
-    </a>
-  </div>
+# 你好，我是 keien 👋
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+Blockchain developer | Go, Solidity & Rust | Building tools for nodes, EVM and Solana.
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://twitter.com/Happyporter4"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://blog.csdn.net/The_Reader"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-  </div>
-  
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+我的开发经历涵盖公链、EVM / Solana 智能合约和后端服务。我喜欢从实际开发问题出发，整理节点操作、链上交互和监控工具。
 
-</div>
+## 技术方向
 
-#  🙋 Hello
+Go、Solidity、Rust、TypeScript / JavaScript。
 
-<table>
-  
-<tr><td>
+## 项目选读
 
-### 🤺 About Me
+- [getEthPubNode](https://github.com/keienWang/getEthPubNode)：以太坊节点信息获取与 RPC 示例。
+- [ao-monitoing-service](https://github.com/keienWang/ao-monitoing-service)：AO 合约状态监控与邮件提醒。
+- [scihub_lock_sol](https://github.com/keienWang/scihub_lock_sol)：基于 Anchor 的 Solana 合约及测试。
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+## 在其他地方找到我
 
-<p>&emsp;&emsp;嗨，你好，我是 keien。</p>
-<p>&emsp;&emsp;热爱编程、唱，跳，rap，篮球。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;很喜欢的一句话是：这个时代唯一不变的就是变。无论何时，我们都应保持自我更新的能力，即便不能走到时代的最前列，也不能任由自己被时代抛弃，人只有不断更新自己，才能与时代的不确定性共舞。</p>
-<p>&emsp;&emsp;所以我从最开始的公链开发一直在尝试着接触新的事物，碰巧的是在近几年的工作中学习到了很多，evm合约，sol合约，后端，慢慢的都有涉及，也都做出了几个不错的项目，但现在会时常思考，我的未来该是什么样子，我该如何去融入新时代的发展，我未来的路该如何规划呢？</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+[Twitter](https://twitter.com/Happyporter4) · [CSDN](https://blog.csdn.net/The_Reader)
 
+<details>
+<summary>生活与阅读</summary>
 
-<!-- END_SECTION:brain -->
+热爱编程、唱、跳、rap、篮球。
 
-</td></tr>
+热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
 
-<tr><td>
+很喜欢的一句话是：这个时代唯一不变的就是变。无论何时，我们都应保持自我更新的能力，即便不能走到时代的最前列，也不能任由自己被时代抛弃，人只有不断更新自己，才能与时代的不确定性共舞。
 
-### 🤾‍♂️ Funny Soul
-
-
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+以下保留原主页的阅读、观影和音乐记录：
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2024-1-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-11
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-08
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-02
+- [读过《认知觉醒》](https://book.douban.com/subject/35193035/) 🌟🌟🌟🌟🌟 力荐 · 2024-01-10
+- [在读《极简主义》](https://book.douban.com/subject/27040433/) 🌟🌟🌟🌟🌟 力荐 · 2023-11-11
+- [看过《肖申克的救赎》](https://movie.douban.com/subject/1292052/) 🌟🌟🌟🌟🌟 力荐 · 2023-02-08
+- [看过《活着》](https://movie.douban.com/subject/1292365/) 🌟🌟🌟🌟 力荐 · 2023-02-07
+- [听过《假如爱有天意》](https://music.douban.com/subject/26567580/) 🌟🌟🌟🌟🌟 力荐 · 2023-02-02
 <!-- END_SECTION:douban -->
 
+</details>
 
-<tr><td>
- <tr>
-    <td>
-      <h2>目前在做的</h2>
-      <p>- 正在搭建 reth 节点，已同步至最新，空间占用才2t，速度很快，只不过必须要ssd才可以，机械硬盘根本追不上最新区块</p>
-      <img align="right" src="./img/node_syning.png" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>- 正在下载 bsc节点快照，公司网络有问题，已反馈，并切换网络</p>
-      <img align="right" src="./img/bnb_node.png" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>- 正在跟上 btc 节点的最新区块，可配置user与password,rpc一直可用</p>
-      <img align="right" src="./img/btcnode.png" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>- 巩固solidity基础知识</p>
-      <img align="right" src="./img/study_sol.png" />
-    </td>
-  </tr>
+<details>
+<summary>节点与学习记录</summary>
 
-</table>
+以下是原主页的开发记录与截图，保留作历史记录，不代表当前节点状态或硬件需求。
 
-</div>
+### reth 节点
 
+原记录：正在搭建 reth 节点，已同步至最新，空间占用才 2T，速度很快，只不过必须要 SSD 才可以，机械硬盘根本追不上最新区块。
 
+![reth 节点同步记录](./img/node_syning.png)
+
+### BSC 节点
+
+原记录：正在下载 BSC 节点快照，公司网络有问题，已反馈，并切换网络。
+
+![BSC 节点记录](./img/bnb_node.png)
+
+### BTC 节点
+
+原记录：正在跟上 BTC 节点的最新区块，可配置 user 与 password，RPC 一直可用。
+
+![BTC 节点记录](./img/btcnode.png)
+
+### Solidity 学习
+
+原记录：巩固 Solidity 基础知识。
+
+![Solidity 学习记录](./img/study_sol.png)
+
+</details>
