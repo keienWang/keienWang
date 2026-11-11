@@ -14,6 +14,7 @@ Go、Solidity、Rust、TypeScript / JavaScript。
 
 ## 项目选读
 
+- **目前在做：[bsc-p2p-relay](https://github.com/keienWang/bsc-p2p-relay)**：通过 devp2p 转发已签名 BSC 交易的 Go 实验项目，不依赖外部 RPC 或链数据库。目前开发中，尚未生产就绪；本地入队不代表传播成功或链上确认。
 - [getEthPubNode](https://github.com/keienWang/getEthPubNode)：以太坊节点信息获取与 RPC 示例。
 - [ao-monitoing-service](https://github.com/keienWang/ao-monitoing-service)：AO 合约状态监控与邮件提醒。
 - [scihub_lock_sol](https://github.com/keienWang/scihub_lock_sol)：基于 Anchor 的 Solana 合约及测试。
