@@ -1,3 +1,7 @@
+![keien · 写代码，也保持好奇](assets/homepage/banner.svg)
+
+[项目选读](#项目选读) · [在其他地方找到我](#在其他地方找到我) · [个人主页源码](index.html) · [本地预览说明](HOMEPAGE.md)
+
 # 你好，我是 keien 👋
 
 Blockchain developer | Go, Solidity & Rust | Building tools for nodes, EVM and Solana.
@@ -69,3 +73,4 @@ Go、Solidity、Rust、TypeScript / JavaScript。
 ![Solidity 学习记录](./img/study_sol.png)
 
 </details>
+
