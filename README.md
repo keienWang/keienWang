@@ -1,6 +1,6 @@
 ![keien · 写代码，也保持好奇](assets/homepage/banner.svg)
 
-[项目选读](#项目选读) · [在其他地方找到我](#在其他地方找到我) · [个人主页源码](index.html) · [本地预览说明](HOMEPAGE.md)
+[项目选读](#项目选读) · [在其他地方找到我](#在其他地方找到我) · [访问个人主页](https://keienwang.github.io/keienWang/) · [主页源码](index.html) · [本地预览说明](HOMEPAGE.md)
 
 # 你好，我是 keien 👋
 

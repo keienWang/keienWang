@@ -15,7 +15,9 @@
 
 ## 发布状态
 
-本次仅提交源码，未开启 GitHub Pages、未改域名或仓库设置。GitHub README 不运行 JavaScript 或网页 CSS，点击仓库内 HTML 文件显示的是源码，而不是网站。若之后决定发布，可使用静态托管，并以仓库根目录作为发布目录；没有预先写入未验证的公开网址。
+GitHub Pages 已发布：[访问个人主页](https://keienwang.github.io/keienWang/)。发布使用 main 分支中的主页文件。GitHub README 不运行 JavaScript 或网页 CSS，点击仓库内 HTML 文件显示源码；请使用上述网址查看完整网页。
+
+已在独立云浏览器检查桌面布局、日夜切换、刷新后主题保持、联系锚点和浏览器返回。移动端 CSS 已实现，但当前验证浏览器未提供可用的手机模拟功能，手机视觉尚未实测。
 
 ## 内容维护
 
