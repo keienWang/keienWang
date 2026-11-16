@@ -6,7 +6,6 @@
   try { chosen = localStorage.getItem('keien-theme'); } catch (_) { /* Storage may be disabled. */ }
   const apply = (dark) => {
     root.dataset.theme = dark ? 'dark' : 'light';
-    button.setAttribute('aria-pressed', String(dark));
     button.textContent = dark ? '切换日间' : '切换夜间';
   };
   apply(chosen === 'dark' || (chosen !== 'light' && preference.matches));
